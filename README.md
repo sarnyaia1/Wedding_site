@@ -1,2 +1,2 @@
-# Wedding_site
-A wedding site for Zoe and Alex
+# simple-quote-page
+This is a simple quote page for testing Github
