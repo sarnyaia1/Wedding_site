@@ -1,2 +1,2 @@
-# simple-quote-page
-This is a simple quote page for testing Github
+# Wedding site
+This is a static website with HTML and CSS
